@@ -1,10 +1,12 @@
 # FutureCall — 3D landing page concept
 
+**[🌐 Live demo](https://sergevei.github.io/futurecall/)** · **[▶ Video on YouTube](https://www.youtube.com/watch?v=y18ETziJP5M)**
+
+[![FutureCall preview](futurecall_preview.jpg)](https://sergevei.github.io/futurecall/)
+
 A concept landing page for a fictional sales texting and calling platform. Scrolling drives a camera through an isometric 3D city that follows one lead from a website form to a closed deal. Below the tour: product sections, a live 3D coverage map of North America, a mobile menu and a developer footer.
 
 FutureCall is not a real company. Features, numbers, customers and reviews are placeholders.
-
-**Live preview:** https://sergevei.github.io/futurecall/
 
 ## Features
 
